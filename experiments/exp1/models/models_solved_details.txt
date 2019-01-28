@@ -1,0 +1,17 @@
+2, 177, True, True, True, False 
+3, 198, True, True, False, True
+4, 203, True, True, False, False 
+6, 279, True, False, True, False 
+10, 140, False, True, True, False 
+12, 155, False, True, False, False 
+13, 140, False, False, True, True 
+14, 148, False, False, True, False
+15, 191, False, False, False, True 
+16, 324, False, False, False, False
+
+gradient_clipping, batch_norm, leaky, dropout
+
+do dalszych analiz:
+no gradient clipping, leaky, 
+False, True/False, True, True/False
+
