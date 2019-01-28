@@ -49,5 +49,3 @@ To run the code:
 1. Specify hyperparameters in the *parameters.py*. Be careful: too many parameters may results with a very long computation time!
 2. run the code by typing: *python run.py*
 3. ... and check results: both on the screen and in the output files/folders.
-
-# DRLND-continuous-control
